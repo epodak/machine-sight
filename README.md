@@ -15,11 +15,11 @@ code; there are no model files.
 ## Run it
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
-Then open the URL Vite prints. `npm run build` writes a static site to `dist/` that runs from any
+Then open the URL Vite prints. `pnpm run build` writes a static site to `dist/` that runs from any
 folder or sub-path (for example GitHub Pages).
 
 ## What you are looking at
